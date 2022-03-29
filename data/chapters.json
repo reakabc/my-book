@@ -2,8 +2,9 @@
     {
         "id": 0,
         "book_id": 0,
-        "title": "Linear Motion",
+        "title": "Sets",
         "description": "",
+        "url":"PDFs/12th/maths/keep201.pdf",
         "status": "published"
     }
 ]
