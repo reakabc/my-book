@@ -1,0 +1,10 @@
+[
+    {
+        "id": 0, 
+        "subject_id": 0,
+        "title": "NCERT",
+        "description":"",
+        "status": "published",
+        "poster": "https://github.com/reakabc/my-book/poster/poster_physics.png"
+    }
+]

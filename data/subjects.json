@@ -1,0 +1,9 @@
+[
+    {
+        "id": 0,
+        "title": "Physics",
+        "description": "This is short description for physics subject",
+        "poster": "https://github.com/reakabc/my-book/poster/poster_physics.png",
+        "status": "published"
+    }
+]
