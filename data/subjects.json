@@ -3,7 +3,28 @@
         "id": 0,
         "title": "Physics",
         "description": "This is short description for physics subject",
-        "poster": "https://github.com/reakabc/my-book/poster/poster_physics.png",
+        "poster": "https://github.com/reakabc/my-book/assets/subjects/physics.jpg",
+        "status": "published"
+    },
+    {
+        "id": 0,
+        "title": "Chemistry",
+        "description": "This is short description for physics subject",
+        "poster": "https://github.com/reakabc/my-book/assets/subjects/chemistry.jpg",
+        "status": "published"
+    },
+    {
+        "id": 0,
+        "title": "Mathematics",
+        "description": "This is short description for physics subject",
+        "poster": "https://github.com/reakabc/my-book/assets/subjects/maths.jpg",
+        "status": "published"
+    },
+    {
+        "id": 0,
+        "title": "Biology",
+        "description": "This is short description for physics subject",
+        "poster": "https://github.com/reakabc/my-book/assets/subjects/biology.jpg",
         "status": "published"
     }
 ]
