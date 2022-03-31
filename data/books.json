@@ -1,10 +1,18 @@
 [
     {
         "id": 0, 
-        "subject_id": 0,
-        "title": "NCERT",
-        "description":"",
+        "title": "Physics Galaxy",
+        "description":"This is short description for physics Galaxy book special one for JEE Aspirant",
+        "subject":"physics",
         "status": "published",
-        "poster": "https://github.com/reakabc/my-book/poster/poster_physics.png"
+        "poster": "https://reakabc.github.io/my-book/assets/subjects/physics.jpg"
+    },
+    {
+        "id": 1, 
+        "title": "Concepts of Physics",
+        "description":"",
+        "subject":"physics",
+        "status": "published",
+        "poster": "https://reakabc.github.io/my-book/assets/subjects/physics.jpg"
     }
 ]
