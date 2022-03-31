@@ -4,7 +4,39 @@
         "book_id": 0,
         "title": "Sets",
         "description": "",
-        "url":"PDFs/12th/maths/keep201.pdf",
+        "url":"https://reakabc.github.io/my-book/PDFs/12th/maths/keep201.pdf",
+        "status": "published"
+    },
+    {
+        "id": 1,
+        "book_id": 0,
+        "title": "Sets",
+        "description": "",
+        "url":"https://reakabc.github.io/my-book/PDFs/12th/maths/keep201.pdf",
+        "status": "published"
+    },
+    {
+        "id": 2,
+        "book_id": 0,
+        "title": "Sets",
+        "description": "",
+        "url":"https://reakabc.github.io/my-book/PDFs/12th/maths/keep201.pdf",
+        "status": "published"
+    },
+    {
+        "id": 3,
+        "book_id": 0,
+        "title": "Sets",
+        "description": "",
+        "url":"https://reakabc.github.io/my-book/PDFs/12th/maths/keep201.pdf",
+        "status": "published"
+    },
+    {
+        "id": 4,
+        "book_id": 0,
+        "title": "Sets",
+        "description": "",
+        "url":"https://reakabc.github.io/my-book/PDFs/12th/maths/keep201.pdf",
         "status": "published"
     }
 ]
