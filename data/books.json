@@ -1,17 +1,17 @@
 [
     {
-        "id": 0, 
+        "id": 0,
         "title": "Physics Galaxy",
-        "description":"This is short description for physics Galaxy book special one for JEE Aspirant",
-        "subject":"physics",
+        "description": "This is short description for physics Galaxy book special one for JEE Aspirant",
+        "subject": "physics",
         "status": "published",
         "poster": "https://reakabc.github.io/my-book/assets/subjects/physics.jpg"
     },
     {
-        "id": 1, 
+        "id": 1,
         "title": "Concepts of Physics",
-        "description":"",
-        "subject":"physics",
+        "description": "",
+        "subject": "physics",
         "status": "published",
         "poster": "https://reakabc.github.io/my-book/assets/subjects/physics.jpg"
     }

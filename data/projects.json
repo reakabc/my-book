@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0, 
+        "title": "Syllabus Tracker",
+        "description":"Track your NEET, JEE & Board preparation progress with this app.",
+        "status": "published",
+        "logo": "https://reakabc.github.io/my-book/assets/subjects/physics.jpg",
+        "url": "https://reakabc.github.io/my-book/assets/subjects/physics.jpg"
+    },
+    {
+        "id": 1, 
+        "title": "NCERT Exemplar",
+        "description":"Fully offline app to practice exemplar questions with answers.",
+        "status": "published",
+        "logo": "https://reakabc.github.io/my-book/assets/subjects/physics.jpg",
+        "url": "https://reakabc.github.io/my-book/assets/subjects/physics.jpg"
+    }
+]
