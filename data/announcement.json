@@ -1,0 +1,8 @@
+{
+    "id": 0,
+    "title":"Testing Announcement",
+    "description":"It's free for you. Download now to use it free for forever. Please make sure to get benefited.",
+    "action_name":"Download",
+    "action_url":"https://play.google.com/store/apps/details?id=com.abc.reak.syllabustracker",
+    "poster":"https://reakabc.github.io/my-book/assets/posters/syllabus_tracker.png"
+}
